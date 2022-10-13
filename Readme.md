@@ -4,7 +4,7 @@
 
 ```
 cd bp_top_0-r1/pickle_unicore_lite-morty
-bash bash mybuildtop.sh
+bash mybuildtop.sh
 ```
 
 ## Output
